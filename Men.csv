@@ -1,0 +1,316 @@
+,index,Year,Period,Avg hrs per day sleeping,Standard Error,Type of Days,Age Group,Activity,Sex
+315,315,2003,Annual,8.48,0.031,All days,15 years and over,Sleeping,Men
+316,316,2004,Annual,8.48,0.04,All days,15 years and over,Sleeping,Men
+317,317,2005,Annual,8.53,0.034,All days,15 years and over,Sleeping,Men
+318,318,2006,Annual,8.56,0.035,All days,15 years and over,Sleeping,Men
+319,319,2007,Annual,8.52,0.038,All days,15 years and over,Sleeping,Men
+320,320,2008,Annual,8.56,0.033,All days,15 years and over,Sleeping,Men
+321,321,2009,Annual,8.62,0.041,All days,15 years and over,Sleeping,Men
+322,322,2010,Annual,8.56,0.035,All days,15 years and over,Sleeping,Men
+323,323,2011,Annual,8.62,0.036,All days,15 years and over,Sleeping,Men
+324,324,2012,Annual,8.6,0.041,All days,15 years and over,Sleeping,Men
+325,325,2013,Annual,8.65,0.041,All days,15 years and over,Sleeping,Men
+326,326,2014,Annual,8.69,0.036,All days,15 years and over,Sleeping,Men
+327,327,2015,Annual,8.77,0.045,All days,15 years and over,Sleeping,Men
+328,328,2016,Annual,8.69,0.043,All days,15 years and over,Sleeping,Men
+329,329,2017,Annual,8.7,0.04,All days,15 years and over,Sleeping,Men
+330,330,2003,Annual,8.16,0.039,Nonholiday weekdays,15 years and over,Sleeping,Men
+331,331,2004,Annual,8.16,0.053,Nonholiday weekdays,15 years and over,Sleeping,Men
+332,332,2005,Annual,8.25,0.045,Nonholiday weekdays,15 years and over,Sleeping,Men
+333,333,2006,Annual,8.26,0.045,Nonholiday weekdays,15 years and over,Sleeping,Men
+334,334,2007,Annual,8.2,0.05,Nonholiday weekdays,15 years and over,Sleeping,Men
+335,335,2008,Annual,8.27,0.045,Nonholiday weekdays,15 years and over,Sleeping,Men
+336,336,2009,Annual,8.31,0.053,Nonholiday weekdays,15 years and over,Sleeping,Men
+337,337,2010,Annual,8.27,0.047,Nonholiday weekdays,15 years and over,Sleeping,Men
+338,338,2011,Annual,8.33,0.046,Nonholiday weekdays,15 years and over,Sleeping,Men
+339,339,2012,Annual,8.28,0.052,Nonholiday weekdays,15 years and over,Sleeping,Men
+340,340,2013,Annual,8.38,0.053,Nonholiday weekdays,15 years and over,Sleeping,Men
+341,341,2014,Annual,8.44,0.047,Nonholiday weekdays,15 years and over,Sleeping,Men
+342,342,2015,Annual,8.52,0.058,Nonholiday weekdays,15 years and over,Sleeping,Men
+343,343,2016,Annual,8.36,0.056,Nonholiday weekdays,15 years and over,Sleeping,Men
+344,344,2017,Annual,8.4,0.055,Nonholiday weekdays,15 years and over,Sleeping,Men
+345,345,2003,Annual,9.22,0.044,Weekend days and holidays,15 years and over,Sleeping,Men
+346,346,2004,Annual,9.23,0.046,Weekend days and holidays,15 years and over,Sleeping,Men
+347,347,2005,Annual,9.22,0.06,Weekend days and holidays,15 years and over,Sleeping,Men
+348,348,2006,Annual,9.28,0.055,Weekend days and holidays,15 years and over,Sleeping,Men
+349,349,2007,Annual,9.24,0.055,Weekend days and holidays,15 years and over,Sleeping,Men
+350,350,2008,Annual,9.25,0.055,Weekend days and holidays,15 years and over,Sleeping,Men
+351,351,2009,Annual,9.33,0.048,Weekend days and holidays,15 years and over,Sleeping,Men
+352,352,2010,Annual,9.28,0.046,Weekend days and holidays,15 years and over,Sleeping,Men
+353,353,2011,Annual,9.31,0.059,Weekend days and holidays,15 years and over,Sleeping,Men
+354,354,2012,Annual,9.33,0.059,Weekend days and holidays,15 years and over,Sleeping,Men
+355,355,2013,Annual,9.3,0.056,Weekend days and holidays,15 years and over,Sleeping,Men
+356,356,2014,Annual,9.26,0.053,Weekend days and holidays,15 years and over,Sleeping,Men
+357,357,2015,Annual,9.34,0.061,Weekend days and holidays,15 years and over,Sleeping,Men
+358,358,2016,Annual,9.47,0.061,Weekend days and holidays,15 years and over,Sleeping,Men
+359,359,2017,Annual,9.38,0.053,Weekend days and holidays,15 years and over,Sleeping,Men
+360,360,2003,Annual,9.14,0.095,All days,15 to 24 years,Sleeping,Men
+361,361,2004,Annual,9.12,0.109,All days,15 to 24 years,Sleeping,Men
+362,362,2005,Annual,9.2,0.118,All days,15 to 24 years,Sleeping,Men
+363,363,2006,Annual,9.21,0.108,All days,15 to 24 years,Sleeping,Men
+364,364,2007,Annual,9.03,0.125,All days,15 to 24 years,Sleeping,Men
+365,365,2008,Annual,9.27,0.122,All days,15 to 24 years,Sleeping,Men
+366,366,2009,Annual,9.56,0.136,All days,15 to 24 years,Sleeping,Men
+367,367,2010,Annual,9.21,0.117,All days,15 to 24 years,Sleeping,Men
+368,368,2011,Annual,9.33,0.107,All days,15 to 24 years,Sleeping,Men
+369,369,2012,Annual,9.16,0.118,All days,15 to 24 years,Sleeping,Men
+370,370,2013,Annual,9.3,0.14,All days,15 to 24 years,Sleeping,Men
+371,371,2014,Annual,9.47,0.118,All days,15 to 24 years,Sleeping,Men
+372,372,2015,Annual,9.51,0.162,All days,15 to 24 years,Sleeping,Men
+373,373,2016,Annual,9.59,0.15,All days,15 to 24 years,Sleeping,Men
+374,374,2017,Annual,9.78,0.133,All days,15 to 24 years,Sleeping,Men
+375,375,2003,Annual,8.73,0.131,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+376,376,2004,Annual,8.65,0.143,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+377,377,2005,Annual,8.88,0.154,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+378,378,2006,Annual,8.93,0.133,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+379,379,2007,Annual,8.58,0.163,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+380,380,2008,Annual,8.9,0.153,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+381,381,2009,Annual,9.25,0.177,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+382,382,2010,Annual,8.88,0.159,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+383,383,2011,Annual,9.01,0.136,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+384,384,2012,Annual,8.68,0.158,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+385,385,2013,Annual,8.93,0.164,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+386,386,2014,Annual,9.33,0.158,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+387,387,2015,Annual,9.35,0.214,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+388,388,2016,Annual,9.14,0.189,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+389,389,2017,Annual,9.46,0.184,Nonholiday weekdays,15 to 24 years,Sleeping,Men
+390,390,2003,Annual,10.13,0.133,Weekend days and holidays,15 to 24 years,Sleeping,Men
+391,391,2004,Annual,10.25,0.156,Weekend days and holidays,15 to 24 years,Sleeping,Men
+392,392,2005,Annual,9.96,0.164,Weekend days and holidays,15 to 24 years,Sleeping,Men
+393,393,2006,Annual,9.88,0.18,Weekend days and holidays,15 to 24 years,Sleeping,Men
+394,394,2007,Annual,9.99,0.182,Weekend days and holidays,15 to 24 years,Sleeping,Men
+395,395,2008,Annual,10.13,0.18,Weekend days and holidays,15 to 24 years,Sleeping,Men
+396,396,2009,Annual,10.31,0.149,Weekend days and holidays,15 to 24 years,Sleeping,Men
+397,397,2010,Annual,9.99,0.148,Weekend days and holidays,15 to 24 years,Sleeping,Men
+398,398,2011,Annual,10.11,0.187,Weekend days and holidays,15 to 24 years,Sleeping,Men
+399,399,2012,Annual,10.24,0.153,Weekend days and holidays,15 to 24 years,Sleeping,Men
+400,400,2013,Annual,10.18,0.228,Weekend days and holidays,15 to 24 years,Sleeping,Men
+401,401,2014,Annual,9.8,0.134,Weekend days and holidays,15 to 24 years,Sleeping,Men
+402,402,2015,Annual,9.9,0.217,Weekend days and holidays,15 to 24 years,Sleeping,Men
+403,403,2016,Annual,10.65,0.189,Weekend days and holidays,15 to 24 years,Sleeping,Men
+404,404,2017,Annual,10.46,0.163,Weekend days and holidays,15 to 24 years,Sleeping,Men
+405,405,2003,Annual,8.3,0.066,All days,25 to 34 years,Sleeping,Men
+406,406,2004,Annual,8.42,0.118,All days,25 to 34 years,Sleeping,Men
+407,407,2005,Annual,8.44,0.092,All days,25 to 34 years,Sleeping,Men
+408,408,2006,Annual,8.4,0.096,All days,25 to 34 years,Sleeping,Men
+409,409,2007,Annual,8.45,0.108,All days,25 to 34 years,Sleeping,Men
+410,410,2008,Annual,8.48,0.093,All days,25 to 34 years,Sleeping,Men
+411,411,2009,Annual,8.48,0.103,All days,25 to 34 years,Sleeping,Men
+412,412,2010,Annual,8.28,0.097,All days,25 to 34 years,Sleeping,Men
+413,413,2011,Annual,8.37,0.1,All days,25 to 34 years,Sleeping,Men
+414,414,2012,Annual,8.55,0.093,All days,25 to 34 years,Sleeping,Men
+415,415,2013,Annual,8.45,0.104,All days,25 to 34 years,Sleeping,Men
+416,416,2014,Annual,8.62,0.1,All days,25 to 34 years,Sleeping,Men
+417,417,2015,Annual,8.79,0.122,All days,25 to 34 years,Sleeping,Men
+418,418,2016,Annual,8.54,0.101,All days,25 to 34 years,Sleeping,Men
+419,419,2017,Annual,8.47,0.116,All days,25 to 34 years,Sleeping,Men
+420,420,2003,Annual,7.91,0.079,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+421,421,2004,Annual,8.0,0.157,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+422,422,2005,Annual,8.01,0.114,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+423,423,2006,Annual,7.94,0.121,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+424,424,2007,Annual,8.02,0.143,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+425,425,2008,Annual,8.13,0.12,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+426,426,2009,Annual,8.13,0.133,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+427,427,2010,Annual,7.91,0.117,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+428,428,2011,Annual,7.94,0.131,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+429,429,2012,Annual,8.25,0.118,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+430,430,2013,Annual,8.12,0.137,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+431,431,2014,Annual,8.31,0.127,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+432,432,2015,Annual,8.55,0.154,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+433,433,2016,Annual,8.17,0.128,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+434,434,2017,Annual,8.02,0.157,Nonholiday weekdays,25 to 34 years,Sleeping,Men
+435,435,2003,Annual,9.23,0.106,Weekend days and holidays,25 to 34 years,Sleeping,Men
+436,436,2004,Annual,9.38,0.118,Weekend days and holidays,25 to 34 years,Sleeping,Men
+437,437,2005,Annual,9.46,0.163,Weekend days and holidays,25 to 34 years,Sleeping,Men
+438,438,2006,Annual,9.5,0.117,Weekend days and holidays,25 to 34 years,Sleeping,Men
+439,439,2007,Annual,9.43,0.138,Weekend days and holidays,25 to 34 years,Sleeping,Men
+440,440,2008,Annual,9.32,0.149,Weekend days and holidays,25 to 34 years,Sleeping,Men
+441,441,2009,Annual,9.34,0.133,Weekend days and holidays,25 to 34 years,Sleeping,Men
+442,442,2010,Annual,9.17,0.136,Weekend days and holidays,25 to 34 years,Sleeping,Men
+443,443,2011,Annual,9.34,0.171,Weekend days and holidays,25 to 34 years,Sleeping,Men
+444,444,2012,Annual,9.28,0.13,Weekend days and holidays,25 to 34 years,Sleeping,Men
+445,445,2013,Annual,9.22,0.13,Weekend days and holidays,25 to 34 years,Sleeping,Men
+446,446,2014,Annual,9.32,0.135,Weekend days and holidays,25 to 34 years,Sleeping,Men
+447,447,2015,Annual,9.33,0.151,Weekend days and holidays,25 to 34 years,Sleeping,Men
+448,448,2016,Annual,9.45,0.118,Weekend days and holidays,25 to 34 years,Sleeping,Men
+449,449,2017,Annual,9.45,0.148,Weekend days and holidays,25 to 34 years,Sleeping,Men
+450,450,2003,Annual,8.2,0.059,All days,35 to 44 years,Sleeping,Men
+451,451,2004,Annual,8.2,0.085,All days,35 to 44 years,Sleeping,Men
+452,452,2005,Annual,8.36,0.068,All days,35 to 44 years,Sleeping,Men
+453,453,2006,Annual,8.28,0.078,All days,35 to 44 years,Sleeping,Men
+454,454,2007,Annual,8.28,0.079,All days,35 to 44 years,Sleeping,Men
+455,455,2008,Annual,8.31,0.07,All days,35 to 44 years,Sleeping,Men
+456,456,2009,Annual,8.28,0.071,All days,35 to 44 years,Sleeping,Men
+457,457,2010,Annual,8.29,0.076,All days,35 to 44 years,Sleeping,Men
+458,458,2011,Annual,8.35,0.077,All days,35 to 44 years,Sleeping,Men
+459,459,2012,Annual,8.33,0.076,All days,35 to 44 years,Sleeping,Men
+460,460,2013,Annual,8.37,0.068,All days,35 to 44 years,Sleeping,Men
+461,461,2014,Annual,8.19,0.0859999999999999,All days,35 to 44 years,Sleeping,Men
+462,462,2015,Annual,8.67,0.123,All days,35 to 44 years,Sleeping,Men
+463,463,2016,Annual,8.41,0.107,All days,35 to 44 years,Sleeping,Men
+464,464,2017,Annual,8.36,0.097,All days,35 to 44 years,Sleeping,Men
+465,465,2003,Annual,7.86,0.0749999999999999,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+466,466,2004,Annual,7.88,0.111,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+467,467,2005,Annual,8.03,0.096,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+468,468,2006,Annual,7.95,0.102,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+469,469,2007,Annual,7.98,0.105,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+470,470,2008,Annual,7.99,0.09,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+471,471,2009,Annual,7.93,0.092,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+472,472,2010,Annual,7.96,0.097,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+473,473,2011,Annual,8.0,0.107,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+474,474,2012,Annual,8.01,0.102,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+475,475,2013,Annual,8.01,0.0869999999999999,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+476,476,2014,Annual,7.78,0.102,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+477,477,2015,Annual,8.33,0.162,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+478,478,2016,Annual,8.06,0.153,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+479,479,2017,Annual,7.97,0.126,Nonholiday weekdays,35 to 44 years,Sleeping,Men
+480,480,2003,Annual,9.0,0.07,Weekend days and holidays,35 to 44 years,Sleeping,Men
+481,481,2004,Annual,8.99,0.099,Weekend days and holidays,35 to 44 years,Sleeping,Men
+482,482,2005,Annual,9.16,0.1,Weekend days and holidays,35 to 44 years,Sleeping,Men
+483,483,2006,Annual,9.05,0.099,Weekend days and holidays,35 to 44 years,Sleeping,Men
+484,484,2007,Annual,9.0,0.101,Weekend days and holidays,35 to 44 years,Sleeping,Men
+485,485,2008,Annual,9.06,0.128,Weekend days and holidays,35 to 44 years,Sleeping,Men
+486,486,2009,Annual,9.08,0.097,Weekend days and holidays,35 to 44 years,Sleeping,Men
+487,487,2010,Annual,9.11,0.118,Weekend days and holidays,35 to 44 years,Sleeping,Men
+488,488,2011,Annual,9.17,0.111,Weekend days and holidays,35 to 44 years,Sleeping,Men
+489,489,2012,Annual,9.09,0.107,Weekend days and holidays,35 to 44 years,Sleeping,Men
+490,490,2013,Annual,9.21,0.113,Weekend days and holidays,35 to 44 years,Sleeping,Men
+491,491,2014,Annual,9.16,0.118,Weekend days and holidays,35 to 44 years,Sleeping,Men
+492,492,2015,Annual,9.48,0.127,Weekend days and holidays,35 to 44 years,Sleeping,Men
+493,493,2016,Annual,9.27,0.135,Weekend days and holidays,35 to 44 years,Sleeping,Men
+494,494,2017,Annual,9.28,0.128,Weekend days and holidays,35 to 44 years,Sleeping,Men
+495,495,2003,Annual,8.08,0.056,All days,45 to 54 years,Sleeping,Men
+496,496,2004,Annual,8.11,0.082,All days,45 to 54 years,Sleeping,Men
+497,497,2005,Annual,8.03,0.08,All days,45 to 54 years,Sleeping,Men
+498,498,2006,Annual,8.2,0.082,All days,45 to 54 years,Sleeping,Men
+499,499,2007,Annual,8.18,0.0859999999999999,All days,45 to 54 years,Sleeping,Men
+500,500,2008,Annual,8.16,0.076,All days,45 to 54 years,Sleeping,Men
+501,501,2009,Annual,8.17,0.064,All days,45 to 54 years,Sleeping,Men
+502,502,2010,Annual,8.15,0.072,All days,45 to 54 years,Sleeping,Men
+503,503,2011,Annual,8.23,0.072,All days,45 to 54 years,Sleeping,Men
+504,504,2012,Annual,8.38,0.0859999999999999,All days,45 to 54 years,Sleeping,Men
+505,505,2013,Annual,8.4,0.083,All days,45 to 54 years,Sleeping,Men
+506,506,2014,Annual,8.46,0.082,All days,45 to 54 years,Sleeping,Men
+507,507,2015,Annual,8.22,0.08,All days,45 to 54 years,Sleeping,Men
+508,508,2016,Annual,8.17,0.079,All days,45 to 54 years,Sleeping,Men
+509,509,2017,Annual,8.47,0.109,All days,45 to 54 years,Sleeping,Men
+510,510,2003,Annual,7.76,0.0739999999999999,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+511,511,2004,Annual,7.83,0.109,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+512,512,2005,Annual,7.72,0.102,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+513,513,2006,Annual,7.87,0.108,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+514,514,2007,Annual,7.85,0.103,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+515,515,2008,Annual,7.81,0.1,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+516,516,2009,Annual,7.82,0.08,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+517,517,2010,Annual,7.79,0.101,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+518,518,2011,Annual,7.95,0.091,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+519,519,2012,Annual,8.03,0.095,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+520,520,2013,Annual,8.15,0.106,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+521,521,2014,Annual,8.12,0.101,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+522,522,2015,Annual,7.81,0.099,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+523,523,2016,Annual,7.78,0.101,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+524,524,2017,Annual,8.23,0.15,Nonholiday weekdays,45 to 54 years,Sleeping,Men
+525,525,2003,Annual,8.82,0.09,Weekend days and holidays,45 to 54 years,Sleeping,Men
+526,526,2004,Annual,8.75,0.099,Weekend days and holidays,45 to 54 years,Sleeping,Men
+527,527,2005,Annual,8.81,0.119,Weekend days and holidays,45 to 54 years,Sleeping,Men
+528,528,2006,Annual,8.95,0.129,Weekend days and holidays,45 to 54 years,Sleeping,Men
+529,529,2007,Annual,8.95,0.137,Weekend days and holidays,45 to 54 years,Sleeping,Men
+530,530,2008,Annual,8.97,0.095,Weekend days and holidays,45 to 54 years,Sleeping,Men
+531,531,2009,Annual,8.93,0.121,Weekend days and holidays,45 to 54 years,Sleeping,Men
+532,532,2010,Annual,9.02,0.099,Weekend days and holidays,45 to 54 years,Sleeping,Men
+533,533,2011,Annual,8.89,0.102,Weekend days and holidays,45 to 54 years,Sleeping,Men
+534,534,2012,Annual,9.19,0.151,Weekend days and holidays,45 to 54 years,Sleeping,Men
+535,535,2013,Annual,8.98,0.112,Weekend days and holidays,45 to 54 years,Sleeping,Men
+536,536,2014,Annual,9.25,0.116,Weekend days and holidays,45 to 54 years,Sleeping,Men
+537,537,2015,Annual,9.24,0.131,Weekend days and holidays,45 to 54 years,Sleeping,Men
+538,538,2016,Annual,9.1,0.128,Weekend days and holidays,45 to 54 years,Sleeping,Men
+539,539,2017,Annual,9.07,0.119,Weekend days and holidays,45 to 54 years,Sleeping,Men
+540,540,2003,Annual,8.32,0.068,All days,55 to 64 years,Sleeping,Men
+541,541,2004,Annual,8.3,0.076,All days,55 to 64 years,Sleeping,Men
+542,542,2005,Annual,8.2,0.077,All days,55 to 64 years,Sleeping,Men
+543,543,2006,Annual,8.32,0.095,All days,55 to 64 years,Sleeping,Men
+544,544,2007,Annual,8.32,0.0879999999999999,All days,55 to 64 years,Sleeping,Men
+545,545,2008,Annual,8.24,0.071,All days,55 to 64 years,Sleeping,Men
+546,546,2009,Annual,8.37,0.084,All days,55 to 64 years,Sleeping,Men
+547,547,2010,Annual,8.51,0.077,All days,55 to 64 years,Sleeping,Men
+548,548,2011,Annual,8.4,0.076,All days,55 to 64 years,Sleeping,Men
+549,549,2012,Annual,8.31,0.093,All days,55 to 64 years,Sleeping,Men
+550,550,2013,Annual,8.52,0.084,All days,55 to 64 years,Sleeping,Men
+551,551,2014,Annual,8.35,0.068,All days,55 to 64 years,Sleeping,Men
+552,552,2015,Annual,8.38,0.0869999999999999,All days,55 to 64 years,Sleeping,Men
+553,553,2016,Annual,8.45,0.106,All days,55 to 64 years,Sleeping,Men
+554,554,2017,Annual,8.3,0.0859999999999999,All days,55 to 64 years,Sleeping,Men
+555,555,2003,Annual,8.07,0.083,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+556,556,2004,Annual,8.1,0.095,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+557,557,2005,Annual,7.96,0.096,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+558,558,2006,Annual,7.99,0.115,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+559,559,2007,Annual,8.15,0.109,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+560,560,2008,Annual,7.95,0.091,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+561,561,2009,Annual,8.06,0.098,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+562,562,2010,Annual,8.25,0.09,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+563,563,2011,Annual,8.11,0.1,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+564,564,2012,Annual,8.05,0.121,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+565,565,2013,Annual,8.36,0.12,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+566,566,2014,Annual,8.13,0.092,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+567,567,2015,Annual,8.14,0.11,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+568,568,2016,Annual,8.15,0.121,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+569,569,2017,Annual,8.01,0.101,Nonholiday weekdays,55 to 64 years,Sleeping,Men
+570,570,2003,Annual,8.91,0.103,Weekend days and holidays,55 to 64 years,Sleeping,Men
+571,571,2004,Annual,8.78,0.095,Weekend days and holidays,55 to 64 years,Sleeping,Men
+572,572,2005,Annual,8.77,0.125,Weekend days and holidays,55 to 64 years,Sleeping,Men
+573,573,2006,Annual,9.1,0.158,Weekend days and holidays,55 to 64 years,Sleeping,Men
+574,574,2007,Annual,8.7,0.133,Weekend days and holidays,55 to 64 years,Sleeping,Men
+575,575,2008,Annual,8.91,0.108,Weekend days and holidays,55 to 64 years,Sleeping,Men
+576,576,2009,Annual,9.09,0.129,Weekend days and holidays,55 to 64 years,Sleeping,Men
+577,577,2010,Annual,9.14,0.133,Weekend days and holidays,55 to 64 years,Sleeping,Men
+578,578,2011,Annual,9.07,0.133,Weekend days and holidays,55 to 64 years,Sleeping,Men
+579,579,2012,Annual,8.92,0.161,Weekend days and holidays,55 to 64 years,Sleeping,Men
+580,580,2013,Annual,8.91,0.096,Weekend days and holidays,55 to 64 years,Sleeping,Men
+581,581,2014,Annual,8.88,0.103,Weekend days and holidays,55 to 64 years,Sleeping,Men
+582,582,2015,Annual,8.93,0.124,Weekend days and holidays,55 to 64 years,Sleeping,Men
+583,583,2016,Annual,9.14,0.169,Weekend days and holidays,55 to 64 years,Sleeping,Men
+584,584,2017,Annual,9.0,0.12,Weekend days and holidays,55 to 64 years,Sleeping,Men
+585,585,2003,Annual,8.89,0.066,All days,65 years and over,Sleeping,Men
+586,586,2004,Annual,8.76,0.067,All days,65 years and over,Sleeping,Men
+587,587,2005,Annual,8.98,0.098,All days,65 years and over,Sleeping,Men
+588,588,2006,Annual,9.03,0.081,All days,65 years and over,Sleeping,Men
+589,589,2007,Annual,8.91,0.102,All days,65 years and over,Sleeping,Men
+590,590,2008,Annual,8.95,0.0879999999999999,All days,65 years and over,Sleeping,Men
+591,591,2009,Annual,8.83,0.085,All days,65 years and over,Sleeping,Men
+592,592,2010,Annual,9.0,0.081,All days,65 years and over,Sleeping,Men
+593,593,2011,Annual,9.05,0.092,All days,65 years and over,Sleeping,Men
+594,594,2012,Annual,8.81,0.0749999999999999,All days,65 years and over,Sleeping,Men
+595,595,2013,Annual,8.83,0.078,All days,65 years and over,Sleeping,Men
+596,596,2014,Annual,8.96,0.0869999999999999,All days,65 years and over,Sleeping,Men
+597,597,2015,Annual,8.97,0.078,All days,65 years and over,Sleeping,Men
+598,598,2016,Annual,8.9,0.072,All days,65 years and over,Sleeping,Men
+599,599,2017,Annual,8.75,0.077,All days,65 years and over,Sleeping,Men
+600,600,2003,Annual,8.79,0.084,Nonholiday weekdays,65 years and over,Sleeping,Men
+601,601,2004,Annual,8.63,0.092,Nonholiday weekdays,65 years and over,Sleeping,Men
+602,602,2005,Annual,8.99,0.124,Nonholiday weekdays,65 years and over,Sleeping,Men
+603,603,2006,Annual,8.99,0.108,Nonholiday weekdays,65 years and over,Sleeping,Men
+604,604,2007,Annual,8.79,0.133,Nonholiday weekdays,65 years and over,Sleeping,Men
+605,605,2008,Annual,8.95,0.116,Nonholiday weekdays,65 years and over,Sleeping,Men
+606,606,2009,Annual,8.68,0.116,Nonholiday weekdays,65 years and over,Sleeping,Men
+607,607,2010,Annual,8.93,0.098,Nonholiday weekdays,65 years and over,Sleeping,Men
+608,608,2011,Annual,8.97,0.119,Nonholiday weekdays,65 years and over,Sleeping,Men
+609,609,2012,Annual,8.68,0.097,Nonholiday weekdays,65 years and over,Sleeping,Men
+610,610,2013,Annual,8.67,0.099,Nonholiday weekdays,65 years and over,Sleeping,Men
+611,611,2014,Annual,8.9,0.113,Nonholiday weekdays,65 years and over,Sleeping,Men
+612,612,2015,Annual,8.89,0.102,Nonholiday weekdays,65 years and over,Sleeping,Men
+613,613,2016,Annual,8.81,0.094,Nonholiday weekdays,65 years and over,Sleeping,Men
+614,614,2017,Annual,8.68,0.106,Nonholiday weekdays,65 years and over,Sleeping,Men
+615,615,2003,Annual,9.12,0.082,Weekend days and holidays,65 years and over,Sleeping,Men
+616,616,2004,Annual,9.07,0.096,Weekend days and holidays,65 years and over,Sleeping,Men
+617,617,2005,Annual,8.97,0.118,Weekend days and holidays,65 years and over,Sleeping,Men
+618,618,2006,Annual,9.12,0.104,Weekend days and holidays,65 years and over,Sleeping,Men
+619,619,2007,Annual,9.21,0.118,Weekend days and holidays,65 years and over,Sleeping,Men
+620,620,2008,Annual,8.93,0.134,Weekend days and holidays,65 years and over,Sleeping,Men
+621,621,2009,Annual,9.19,0.106,Weekend days and holidays,65 years and over,Sleeping,Men
+622,622,2010,Annual,9.17,0.115,Weekend days and holidays,65 years and over,Sleeping,Men
+623,623,2011,Annual,9.25,0.125,Weekend days and holidays,65 years and over,Sleeping,Men
+624,624,2012,Annual,9.1,0.105,Weekend days and holidays,65 years and over,Sleeping,Men
+625,625,2013,Annual,9.2,0.091,Weekend days and holidays,65 years and over,Sleeping,Men
+626,626,2014,Annual,9.1,0.105,Weekend days and holidays,65 years and over,Sleeping,Men
+627,627,2015,Annual,9.15,0.091,Weekend days and holidays,65 years and over,Sleeping,Men
+628,628,2016,Annual,9.12,0.101,Weekend days and holidays,65 years and over,Sleeping,Men
+629,629,2017,Annual,8.89,0.116,Weekend days and holidays,65 years and over,Sleeping,Men

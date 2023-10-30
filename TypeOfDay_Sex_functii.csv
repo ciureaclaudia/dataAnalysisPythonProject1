@@ -1,0 +1,10 @@
+Activity,Type of Days,Sex,min,max,mean
+Sleeping,All days,Both,8.17,9.72,8.682571428571428
+Sleeping,All days,Men,8.03,9.78,8.60142857142857
+Sleeping,All days,Women,8.2,9.66,8.760285714285715
+Sleeping,Nonholiday weekdays,Both,7.85,9.39,8.40552380952381
+Sleeping,Nonholiday weekdays,Men,7.72,9.46,8.312285714285714
+Sleeping,Nonholiday weekdays,Women,7.9,9.42,8.495238095238095
+Sleeping,Weekend days and holidays,Both,8.73,10.58,9.335428571428572
+Sleeping,Weekend days and holidays,Men,8.7,10.65,9.28104761904762
+Sleeping,Weekend days and holidays,Women,8.76,10.52,9.388
